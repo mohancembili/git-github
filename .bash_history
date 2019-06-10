@@ -567,3 +567,90 @@ sudo nano /etc/hosts/
 sudo cat /etc/hosts/
 sudo cat /etc/hosts
 traceroute lowes.com
+pwd
+sudo yum install git
+git status
+git add origin
+git init
+git add origin "https://github.com/mohancembili/git-github.git'
+git add origin "https://github.com/mohancembili/git-github.git"
+git status
+git add .
+git commit -m "mycommit'
+git commit -m "mycommit"
+git config --global user.name"mohan cembili"
+git config --global user.name "mohan cembili"
+git config --global user.email "mohancembili@gmail.com"
+git log
+git user
+git --hep
+git --help
+git status
+git show
+git status
+git add .
+git add . -A
+git commit -m "newcomit'
+git commit -m "newcomit"
+git status
+git add origin "https://github.com/mohancembili/git-github.git"
+git add origin https://github.com/mohancembili/git-github.git
+git remote -v
+git remote add origin "https://github.com/mohancembili/git-github.git"
+git list
+git status
+sit log
+git log
+git checkout 
+ll
+git branch
+git branch child
+git branch
+git checkout child
+git branch
+touch file1 
+touc file 2
+touch file2
+ll
+git checkout master
+ll
+git status
+git add .
+git commit -m "newcommit"
+git pull master
+git branch -a
+git branch -d
+git branch -d master
+git merge child
+git stash 
+git push origin master
+git pull origin master
+git push origin master
+git push
+git log -- summary | grep more
+git log -- summary | grep 
+git log -- summary
+git log
+clear
+git log
+cat hello
+ll
+git statis 
+git status
+echo "hello added new file data" >>file1
+cat file
+cat file1
+git statius
+git statis
+git status
+git add file1
+git status
+git commit 
+git status
+git branch
+git pull origin master
+git diff --staged
+git branch
+git log master child 
+logoiut
+logout
